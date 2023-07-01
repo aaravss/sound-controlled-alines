@@ -1,0 +1,27 @@
+body{
+    font-family: 'Work Sans', sans-serif;
+    background-color:aliceblue;
+}
+
+.copy_right_footer{
+    background-color: white;
+    bottom: 0;
+    position: fixed;
+    text-align: center;
+    font-size: 15px;
+    line-height: 3;
+    text-shadow: 5px 5px 5px rgb(155,152,152);
+    width: 100%;
+}
+
+.header_div p{
+    letter-spacing: 1px;
+    font-size: 15px;
+}
+
+.main_div button{
+margin-top: 20px;
+width: 130px;
+font-weight: bolder;
+letter-spacing: 2px;
+}
